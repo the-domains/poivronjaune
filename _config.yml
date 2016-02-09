@@ -2,12 +2,13 @@ name: PoivronJaune
 favicon: null
 layout_spectrum: 0.016993281431496143
 typography_spectrum: 0.5762977981939912
+title: Le Poivron Jaune - Test and trials
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-42039416-5
   facebook: null
   twitter: null
 opengraph:
