@@ -1,7 +1,7 @@
 name: PoivronJaune
 favicon: null
-layout_spectrum: 0.016993281431496143
-typography_spectrum: 0.5762977981939912
+layout_spectrum: 0.24965
+typography_spectrum: 0.78659
 title: Le Poivron Jaune - Test and trials
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6239950815215707
-  lightness: 0.3833048555534333
-  saturation: 0.22916113026440144
-  rhythmicContrast: 0.4834984296467155
+    - '#ffffff'
+    - '#ff7b00'
+    - '#000000'
+    - '#7d3d00'
+    - '#767676'
+  brandStrength: 0.6875
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
